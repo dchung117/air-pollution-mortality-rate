@@ -14,3 +14,8 @@ Two-fold cross-validation was conducted using the training set of air pollution 
 
 ### File Descriptions ###
 
+1. CourseProject_ChungD.pdf - formal report that explains each phase of my regression analysis study in complete detail
+
+2. Project.mlx - MATLAB Live Script file that contains the code used to construct the multiple linear regression model, testing for significance of regression, and cross-validating the prediction accuracy of the model. 
+
+3. data-table-B-15_csv.csv - Raw data file (CSV) containing air pollution and mortality data for 60 U.S. cities. 
