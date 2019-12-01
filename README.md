@@ -1,5 +1,8 @@
 # air-pollution-mortality-rate
+
 Multiple linear regression analysis of air pollution and mortality rate data for 60 U.S. cities
+
+### Project Summary ###
 
 Air pollution data for 60 cities in the United States from 1960 are collected. The dataset contains information on the total age-adjusted mortality rate (y), mean annual precipitation in inches (x1), median number of school years completed for those over 25 in 1960 SMSA (x2), percentage of urbanized area population that is nonwhite (x3), relative pollution potential of oxides of nitrogen (NOx) (x4), and relative pollution potential of sulfur dioxide (SO2) (x5).
 
@@ -9,4 +12,5 @@ Afterwards, the residual plots were examined to confirm that the data were in co
 
 Two-fold cross-validation was conducted using the training set of air pollution data. The computed PRESS statistics conveyed the model's prediction accuracy of 57%.
 
-### CONTENTS ###
+### Contents ###
+
