@@ -12,5 +12,5 @@ Afterwards, the residual plots were examined to confirm that the data were in co
 
 Two-fold cross-validation was conducted using the training set of air pollution data. The computed PRESS statistics conveyed the model's prediction accuracy of 57%.
 
-### Contents ###
+### File Descriptions ###
 
